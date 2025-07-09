@@ -14,7 +14,7 @@ I’ve just wrapped up the **Complete JavaScript Course** and put the theory int
 | 1 | **Calculator**              • Responsive & keyboard‑friendly<br>• Chain operations & clear history<br>• Built with HTML, Tailwind CSS v4, & JS                 |
 | 2 | **Bat & Ball Game**          • Canvas‑based arcade clone (Breakout)<br>• Collision detection & score tracking<br>• Increasing difficulty levels                 |
 | 3 | **Add / Remove Items**       • Dynamic to‑do / shopping‑list UI<br>• Add, edit, delete, & persist to `localStorage`<br>• Accessible forms & toast notifications |
-| 4 | **Full E‑commerce Website** | [Separate Repo »](https://github.com/your‑username/ecommerce‑website) | • Multi‑page storefront<br>• Product grid, cart logic, & checkout flow<br>• Dark‑mode toggle & responsive animations               |
+| 4 | **Full E‑commerce Website** | [Separate Repo »](https://github.com/AyeshaAnwar2/Ecomrece-Website.git) | • Multi‑page storefront<br>• Product grid, cart logic, & checkout flow<br>• Dark‑mode toggle & responsive animations               |
 
 > **Note:** Project #4 lives in its own repository to keep this one lightweight.
 
