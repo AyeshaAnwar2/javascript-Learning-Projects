@@ -1,0 +1,238 @@
+*{
+  padding: 0;
+  margin: 0;
+
+}
+body{
+  /* background-color: black; */
+  color: black;
+  
+  height: 100vh;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+}
+#calculator{
+  border: 2px solid rgb(238, 232, 221);
+  color: black;
+  width: 200px;
+  margin: 40px;
+  padding: 10px;
+}
+
+.feild{
+  height: 30px;
+  padding: 2px;
+  border: 2px solid black;
+  border-radius: 12px;
+  outline: none;
+}
+
+#digits{
+  margin-top: 10px;
+}
+.calc-btnC{
+  width: 50px;
+  margin-right: 7px;
+  margin-top: 7px;
+}
+.calc-btn1{
+  width: 50px;
+  margin-right: 7px;
+  margin-top: 7px;
+}
+.calc-btn2{
+  width: 50px;
+  margin-right: 7px;
+  margin-top: 7px;
+}
+.calc-btn3{
+  width: 50px;
+  margin-right: 7px;
+  margin-top: 7px;
+}
+.calc-btn4{
+  width: 50px;
+  margin-right: 7px;
+  margin-top: 7px;
+}
+.calc-btn5{
+  width: 50px;
+  margin-right: 7px;
+  margin-top: 7px;
+}
+.calc-btn6{
+  width: 50px;
+  margin-right: 7px;
+  margin-top: 7px;
+}
+.calc-btn7{
+  width: 50px;
+  margin-right: 7px;
+  margin-top: 7px;
+}
+.calc-btn8{
+  width: 50px;
+  margin-right: 7px;
+  margin-top: 7px;
+}
+.calc-btn0{
+  width: 50px;
+  margin-right: 7px;
+  margin-top: 7px;
+}
+.calc-btn9{
+  width: 50px;
+  margin-right: 7px;
+  margin-top: 7px;
+}
+.calc-btnt{
+  width: 50px;
+  margin-right: 7px;
+  margin-top: 7px;
+}
+.calc-btnpls{
+  width: 50px;
+  margin-right: 7px;
+  margin-top: 7px;
+}
+.calc-btnmin{
+  width: 50px;
+  margin-right: 7px;
+  margin-top: 7px;
+}
+.calc-btnmul{
+  width: 50px;
+  margin-right: 7px;
+  margin-top: 7px;
+}
+.calc-btndi{
+  width: 50px;
+  margin-right: 7px;
+  margin-top: 7px;
+}
+.calc-btndot{
+  width: 50px;
+  margin-right: 7px;
+  margin-top: 7px;
+}
+.calc-btneq{
+  width: 50px;
+  margin-right: 7px;
+  margin-top: 7px;
+}
+
+
+#upper{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(209, 11, 77);
+  box-shadow: rgb(209, 11, 77);
+  width: 400px;
+  height: 500px;
+  color: white;
+  margin-left: 200px;
+  padding: 10px;
+}
+
+#lower{
+  width: 300px;
+  height: 350px;
+  padding: 10px;
+  background-color: rgb(100, 100, 94);
+  backdrop-filter: blur;
+}
+
+#boundary{
+  text-align: center;
+  height: 300px;
+  width: 300px;
+  border: 2px solid white;
+  margin: 50px;
+  padding: 20px;
+}
+
+#my-btn{
+  padding: 10px;
+  margin: 20px;
+  border: none;
+  border-radius: 5px;
+}
+.js-odd{
+  background-color: blue;
+}
+
+.js-even{
+  background-color: red;
+}
+#main-container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  width: 100%;
+}
+#main-heading{
+  text-align: center;
+  font-family: Arial;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+#app{
+  /* width: 400px; */
+ 
+  background-color: antiquewhite;
+  padding: 20px;
+  margin: 10px;
+}
+#feild{
+ 
+  padding: 10px;
+  
+}
+#date{
+  padding: 10px;
+}
+#btn{
+  padding: 10px;
+  width: 70px;
+}
+#todo-container{
+  
+  display: grid;
+  grid-template-columns: 200px   140px  70px;
+  row-gap: 10px;
+  align-items: center;
+  justify-content: center;
+}
+#btn{
+  background-color: green;
+  margin-left: 8px;
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+  color: aliceblue;
+}
+.btn{
+  background: red;
+  border: none;
+  padding: 10px;
+  border-radius: 10px;
+  color: aliceblue;
+}
+
+.grow{
+  height: 50px;
+  width: 150px;
+  padding: 20px;
+  background-color: blueviolet;
+  color: white;
+ 
+}
+.grow-double{
+  color: white;
+  background-color: black;
+  height: 100px;
+  width: 200px;
+}
